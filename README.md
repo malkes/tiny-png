@@ -6,6 +6,6 @@ Pre-requisitos:
 
 NodeJs > 6
 
-TinyPNG -> hnpm install --save tinify
+TinyPNG -> npm install --save tinify
 
 Key do TinyPNG -> https://tinypng.com/developers
